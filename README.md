@@ -1,5 +1,1 @@
-This project is to mock data.
-
-## Projects:
-
-- Experiments
+Repository of mocked data.
